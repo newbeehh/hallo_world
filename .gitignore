@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+＃瞎几把乱加
+*.exe
+*.bat
+*.py
